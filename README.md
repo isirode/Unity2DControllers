@@ -24,6 +24,12 @@ The project will be added to your "Packages" folder, the scenes will be read-onl
 
 You can also download the .unitypackage of the version you want, here for instance https://github.com/isirode/Unity2DControllers/releases/tag/0.0.1 and add it manually to your project. This should import the project in your Assets folder.
 
+### Dependencies
+
+The project is using Unity's Cinemachine system, you can find the version in the subfolder's [package.json](./Assets/Isirode/Unity2DControllers/package.json) or in the project's [manifest.json](./Packages/manifest.json).
+
+It will be auto-imported if you add the project using the Git url import way.
+
 ## Know issues
 
 I am not sure wether or not the virtual camera setting is optimal.
