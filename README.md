@@ -30,4 +30,4 @@ I am not sure wether or not the virtual camera setting is optimal.
 
 ## Partipating
 
-Open the [DEVELOPER.md](.DEVELOPER.md) section.
+Open the [DEVELOPER.md](./DEVELOPER.md) section.
