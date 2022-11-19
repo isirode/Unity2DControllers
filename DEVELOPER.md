@@ -15,6 +15,13 @@ There is a list of features below which could be interesting.
   - [ ] Platformer controller
   - [ ] Adventure controller
 
+- [ ] System
+    - [ ] Rebinding of the keys
+
+- [ ] UI
+  - [ ] Configure keys
+  - [ ] Configure cinemachine
+
 - [ ] Editor
   - [ ] System to setup the controllers inside a scene
 
