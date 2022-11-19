@@ -1,0 +1,12 @@
+{
+  "name": "com.isirode.unity-2d-controllers",
+  "displayName": "Isirode.Unity2DControllers",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "Unity simple 2D controllers using Cinemachine",
+  "keywords": [ "controller", "cinemachine", "2D" ],
+  "category": "controller cinemachine 2D",
+  "dependencies": {
+	"com.unity.cinemachine": "2.8.9"
+  }
+}
